@@ -1,2 +1,4 @@
-# sistema-control-industrial-postmortem
-Repositorio para control de versiones del trabajo final de post-mortem industrial
+# Proyecto: Sistema de Control Industrial - Post-Mortem
+Repositorio para la gestión de versiones del incidente de base de datos.
+- Estado: Resuelto mediante Rollback.
+- Rama principal: main
